@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+Name: <br>
+<input type="text" id="intText" value="">
+ <input type="text" id="intTexttri" value="">
+ 
+ Name: <br>
+<input type="text" id="myText" value="">
+ 
+ 
+
+
+
+
+<button onclick="myFunction()">calculer la somme de deux  entier</button>
+
+<script>
+function myFunction() {
+    
+    var val1 = document.getElementById("intText").value;
+    var val2 = document.getElementById("myText").value;
+    var a = parseInt(val1);
+    var b = parseInt(val2);
+    document.getElementById("intTexttri").value=a +b;
+    var link = "mailto:anas@gmail.com"
+             + "?cc=myCCaddress@example.com"
+             + "&subject=" + escape("This is my subject")
+             + "&body=" + escape(document.getElementById('myText').value)
+    ;
+
+    window.location.href = link;
+
+   
+    
+    
+}
+</script>
+
+</body>
+</html>

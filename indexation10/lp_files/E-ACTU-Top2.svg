@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="E-ACTU-Top2.AI" width="48" height="48" viewBox="0 0 48 48">
+  <style>
+    .st0{fill:url(#SVGID_1_);} .st1{fill:#141E28;}
+  </style>
+  <g id="E-ACTU-Top2">
+    <linearGradient id="SVGID_1_" x1="40.9706" x2="7.0294" y1="40.9706" y2="7.0294" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#96F"/>
+      <stop offset=".0616" stop-color="#9E60EA"/>
+      <stop offset=".2487" stop-color="#AC4FB0"/>
+      <stop offset=".4294" stop-color="#B7417F"/>
+      <stop offset=".5993" stop-color="#C03659"/>
+      <stop offset=".756" stop-color="#C72E3E"/>
+      <stop offset=".8943" stop-color="#CB2A2E"/>
+      <stop offset="1" stop-color="#CC2828"/>
+    </linearGradient>
+    <path d="M24 1c12.682 0 23 10.318 23 23S36.682 47 24 47 1 36.682 1 24 11.318 1 24 1m0-1C10.745 0 0 10.745 0 24s10.745 24 24 24 24-10.745 24-24S37.255 0 24 0z" class="st0"/>
+    <path d="M23.044 12.9c4.061 0 5.956 1.618 5.956 4.854v1.876c0 1.144-.057 2.098-.435 2.864s-.943 1.461-1.829 2.087l-2.591 1.974c-.994.712-1.493 1.305-1.818 1.78-.324.474-.327 1.154-.327 2.038v1.631h7V35H19v-4.853c0-1.316.089-2.373.629-3.172.539-.798 1.259-1.574 2.339-2.33l2.709-2.135c.626-.41.916-.852 1.132-1.327.215-.474.191-1.121.191-1.941v-1.229c0-.777-.107-1.354-.539-1.731s-1.266-.567-2.615-.567-2.846.248-3.846.744v-2.944c1-.41 2.445-.615 4.044-.615z" class="st1"/>
+  </g>
+</svg>

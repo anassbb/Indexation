@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="E-ACTU-Top4.AI" width="48" height="48" viewBox="0 0 48 48">
+  <style>
+    .st0{fill:url(#SVGID_1_);} .st1{fill:#141E28;}
+  </style>
+  <g id="E-ACTU-Top4">
+    <linearGradient id="SVGID_1_" x1="40.9706" x2="7.0294" y1="40.9706" y2="7.0294" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#96F"/>
+      <stop offset=".0616" stop-color="#9E60EA"/>
+      <stop offset=".2487" stop-color="#AC4FB0"/>
+      <stop offset=".4294" stop-color="#B7417F"/>
+      <stop offset=".5993" stop-color="#C03659"/>
+      <stop offset=".756" stop-color="#C72E3E"/>
+      <stop offset=".8943" stop-color="#CB2A2E"/>
+      <stop offset="1" stop-color="#CC2828"/>
+    </linearGradient>
+    <path d="M24 1c12.682 0 23 10.318 23 23S36.682 47 24 47 1 36.682 1 24 11.318 1 24 1m0-1C10.745 0 0 10.745 0 24s10.745 24 24 24 24-10.745 24-24S37.255 0 24 0z" class="st0"/>
+    <path d="M30 28v3h-2v4h-3v-4h-8v-2.804L23.707 13H28v15h2zm-5 0V15.917L19.722 28H25z" class="st1"/>
+  </g>
+</svg>

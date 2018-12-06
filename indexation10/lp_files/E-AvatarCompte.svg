@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="E-AvatarCompte.SVG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="80px" height="80px" viewBox="0 0 80 80" enable-background="new 0 0 80 80" xml:space="preserve">
+<g id="E-Avatar-Compte">
+	<circle id="Cartouche__x23_ecf2f4" fill="#ECF2F4" cx="40" cy="40" r="40"/>
+	<g>
+		<g>
+			<defs>
+				<circle id="SVGID_1_" cx="40" cy="40" r="40"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			<path id="Icone_avatar" clip-path="url(#SVGID_2_)" fill="none" stroke="#8296A0" stroke-width="2" stroke-miterlimit="10" d="
+				M15.2,73.6c5.859-4.729,17.195-10.177,17.195-10.177l0.224-4.934c-4.387-3.701-5.138-8.206-5.398-9.971
+				c0,0-4.411-2.981-5.219-8.121s2.997-3.598,2.997-3.598s-1.414-5.037,0.404-9.56c1.818-4.523,3.94-5.859,3.94-5.859
+				s-0.505-2.364,1.414-2.981c1.919-0.617,3.637-0.514,3.637-0.514s-0.573-2.227,0.236-3.563c0.808-1.336,1.914-1.522,1.914-1.522
+				l-0.432,0.734c0,0,1.414,1.679,3.434,2.296c2.02,0.617,9.56,2.757,12.728,6.682c2.323,2.878,3.838,8.429,2.727,14.391
+				c0,0,4.344-0.686,3.401,3.495c-0.943,4.18-2.559,6.716-4.378,8.155c0,0-1.751,6.545-6.263,9.8l0.404,5.277
+				c0,0,9.058,3.666,16.634,9.594"/>
+		</g>
+	</g>
+</g>
+</svg>

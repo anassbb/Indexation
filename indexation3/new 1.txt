@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="col-sm-4" style="background-color:crimson"></div>
+    <div class="col-sm-6">
+      <h1 style="color: blue">Anas</h1>
+    </div>
+    <div class="col-sm-2"><img src="picanas.jpg" class="img-responsive" alt="Cinque Terre" width="120" height="100"> </div>
+</div>
+
+<div class="row">
+<div class="col-sm-4" style="background-color:crimson"></div>
+<div class="col-sm-8" style="padding:5px">
+  <ul class="nav nav-tabs">
+    <li routerLinkActive="active">
+      <a routerLink="home">Home</a>
+    </li>    
+    <li routerLinkActive="active">
+        <a routerLink="employees">Emplyees</a>
+    </li>
+  </ul>
+  <br/>
+  <router-outlet></router-outlet>
+</div>
+</div>
